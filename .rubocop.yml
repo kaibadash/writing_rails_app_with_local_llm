@@ -1,0 +1,10 @@
+plugins:
+  - rubocop-rails
+  - rubocop-capybara
+  - rubocop-factory_bot
+  - rubocop-performance
+  - rubocop-rspec
+  - rubocop-rspec_rails
+
+Style/Documentation:
+  Enabled: false
