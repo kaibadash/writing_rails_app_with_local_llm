@@ -1,0 +1,2 @@
+# writing_rails_app_with_local_llm
+writing_rails_app_with_local_llm
